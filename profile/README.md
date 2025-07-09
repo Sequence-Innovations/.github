@@ -1,4 +1,3 @@
-# Sequence Innovations
 
 > Building innovative digital solutions with cutting-edge technologies
 
